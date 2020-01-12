@@ -58,6 +58,7 @@
      <Compile Include="Assets\START Pack\Scripts\InitialKick.cs" />
      <Compile Include="Assets\START Pack\Scripts\ShowStats.cs" />
      <Compile Include="Assets\START Pack\Scripts\SpinRite.cs" />
+     <Compile Include="Assets\START Pack\Scripts\Torque.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/Theo calianos/Desktop/unity projects/Unstable Rotation/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
